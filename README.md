@@ -1,2 +1,1 @@
 # DevOpsLab
-cd GitLab
